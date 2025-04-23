@@ -26,12 +26,10 @@ O projeto foi dividido em três etapas:
 
 ```plaintext
 supermercado-db-modelagem/
-├── README.md                         # Este arquivo
+├── README.md (Este arquivo)
 ├── Conceitual/
 │   └── MER - Supermercado.drawio.png
 ├── Logico/
 │   └── DER - Supermercado.png
 ├── Fisico/
 │   └── BD_Supermercado_15.04.25.sql
-├── docs/
-│   └── Mariany_Souza_43544096_BD_Supermercado_15.04.25.pdf
